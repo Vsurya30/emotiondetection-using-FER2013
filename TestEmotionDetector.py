@@ -21,7 +21,7 @@ cap = cv2.VideoCapture(0)
 
 # pass here your video path
 
-#cap = cv2.VideoCapture("./video(2160p).mp4")
+#cap = cv2.VideoCapture("./samplevi1.mp4")
 
 results= []
 
